@@ -3,6 +3,8 @@ marp: true
 ---
 La gestion de bibliothèque
 
+![auto](..\MCC.drawio.svg)
+
 # Compte-rendu d'interviews
 
 La bibliothèque *LECTURE POUR TOUS* a été fondée il y a une dizaine d'années par la commission du personnel de l'entreprise *SMITH*.
