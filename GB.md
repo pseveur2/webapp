@@ -3,7 +3,7 @@ marp: true
 ---
 La gestion de bibliothèque
 
-![auto](..\MCC.drawio.svg)
+![auto](.\MCC.drawio.svg)
 
 # Compte-rendu d'interviews
 
